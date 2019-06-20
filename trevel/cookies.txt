@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+whitelabel.travelpayouts.com	TRUE	/	FALSE	1999999999	auid_tp	CtY4vlw02rlfD5m4GH9iAg==
+whitelabel.travelpayouts.com	TRUE	/	FALSE	1999999999	auid_ab	fwAAAVw02rlfD5m4GH9jAg==
+whitelabel.travelpayouts.com	TRUE	/	FALSE	1999999999	wl_ab534	main
+whitelabel.travelpayouts.com	TRUE	/	FALSE	1999999999	wl_ab	main.534
+whitelabel.travelpayouts.com	TRUE	/	FALSE	1999999999	wl_auid	CtY4vlw02rle/pm2DvxRAg==
+

@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mobirise.com	TRUE	/	FALSE	1999999999	__cfduid	d7cbac3978377d675fab3ccb70145afba1542796984
+

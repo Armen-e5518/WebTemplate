@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Feb 2019 18:09:07 at http://malikov.net/works/rc-gig/#xl_xr_page_index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://malikov.net/works/rc-gig/#xl_xr_page_index -O1 "D:\WEB\shun" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:12:36	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+18:12:36	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/xl_xr_page_index (from primary/primary)
+18:13:07	Warning: 	Retry after error -4 (Incorrect length (365756 Bytes, 498666 expected)) at link malikov.net/works/rc-gig/index_htm_files/64129.png (from malikov.net/works/rc-gig/)
+18:13:07	Warning: 	Retry after error -4 (Incorrect length (204059 Bytes, 510430 expected)) at link malikov.net/works/rc-gig/index_htm_files/64145.png (from malikov.net/works/rc-gig/)
+18:13:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/xl_xr_page_index (from primary/primary)
+18:13:35	Warning: 	Retry after error -4 (Incorrect length (70109 Bytes, 1440356 expected)) at link malikov.net/works/rc-gig/test-1/data/player.js?s=6g0tggcgf1iu-nhk8r1sjk5bg (from malikov.net/works/rc-gig/test-1/index.html)
+18:13:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/xl_xr_page_index (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 24 seconds : 362 links scanned, 354 files written (7903747 bytes overall) [8031094 bytes received at 24787 bytes/sec], 14.3 requests per connection
+(2 errors, 5 warnings, 0 messages)

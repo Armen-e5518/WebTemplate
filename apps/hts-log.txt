@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Nov 2018 14:42:44 at https://mobirise.com/free-template/app-showcase-demo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mobirise.com/free-template/app-showcase-demo/ -O1 "D:\WEB\apps" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:05	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://mobirise.com/free-template/app-showcase-demo/)
+14:43:05	Error: 	"Object Not Found" (404) at link https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/fonts/Material-Design-Icons.eot?3ocs8m (from https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/css/material.css)
+14:43:05	Error: 	"Object Not Found" (404) at link https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/fonts/Material-Design-Icons.eot? (from https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/css/material.css)
+14:43:05	Error: 	"Object Not Found" (404) at link https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/fonts/Material-Design-Icons.woff?3ocs8m (from https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/css/material.css)
+14:43:05	Error: 	"Object Not Found" (404) at link https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/fonts/Material-Design-Icons.ttf?3ocs8m (from https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/css/material.css)
+14:43:05	Error: 	"Object Not Found" (404) at link https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/fonts/Material-Design-Icons.svg?3ocs8m (from https://mobirise.com/free-template/app-showcase-demo/assets/bootstrap-material-design-font/css/material.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 47 links scanned, 40 files written (4165457 bytes overall) [3406785 bytes received at 162227 bytes/sec], 1128241 bytes transferred using HTTP compression in 32 files, ratio 29%, 16.6 requests per connection
+(6 errors, 0 warnings, 0 messages)
